@@ -7,8 +7,8 @@
 int main(void)
 {
 int i;
-char x
-;
+char x;
+
 for (i = 0; 10 < 10; i++)
 putchar(i + '0');
 for (x = 'a'; x <= 'f'; x++)
