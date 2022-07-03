@@ -2,7 +2,8 @@
 /**
 * main - entry
 *It prints alphabet
-*/
+*Return: Always 0
+**/
 int main(void)
 {
 char letter;
